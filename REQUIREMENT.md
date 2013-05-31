@@ -27,5 +27,10 @@ N Bhargav
 ##Goals  
 
 The objective of this project is to build a canvas and provide neat way to create, color, move 
-rectangles. A canvas let's us build 2D shapes which are scriptable and dynamic. It is a
+rectangles.
+**Notes:**
+A canvas let's us build 2D shapes which are scriptable and dynamic. It is a
 low level, procedural model that updates a bitmap and does not have a built-in scene graph.
+
+First goal is to implement the interface using the JS console.
+Operations that can be done 

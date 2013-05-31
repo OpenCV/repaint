@@ -1,24 +1,31 @@
-repaint Requirements
+repaint requirements
 ====================
 
-#Project Redemption
-#Home
-#Knowledge Base
 
-**Target release: ** 1.0
+**Target release:**
+1.0
 
-**Theme: ** NA
+**Theme:**
+NA
 
-**Document status: ** Draft
+**Document status:**
+Draft
 
-**Designer: ** N Bhargav
+**Designer:**
+def␣show_results␣␣
+end
+N Bhargav
 
-**Developers: ** 
+**Developers:** 
+def␣show_results␣␣
+end
 1. N Bhargav
 2. Shamasis
 3. Sushanth
 
 **QA :**
+def␣show_results␣␣
+end
 1. N Bhargav
 2. Shamasis
 3. Sushanth

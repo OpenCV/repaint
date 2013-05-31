@@ -26,4 +26,5 @@ N Bhargav
 
 ##Goals  
 
-*
+The objective of this project is to build a canvas and provide neat way to create, color, move 
+rectangles. A canvas is 

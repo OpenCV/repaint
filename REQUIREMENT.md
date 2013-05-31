@@ -5,20 +5,20 @@ repaint Requirements
 #Home
 #Knowledge Base
 
-*Target release: * 1.0
+**Target release: ** 1.0
 
-*Theme: * NA
+**Theme: ** NA
 
-*Document status: * Draft
+**Document status: ** Draft
 
-*Designer: * N Bhargav
+**Designer: ** N Bhargav
 
-*Developers: * 
+**Developers: ** 
 1. N Bhargav
 2. Shamasis
 3. Sushanth
 
-*QA :*
+**QA :**
 1. N Bhargav
 2. Shamasis
 3. Sushanth

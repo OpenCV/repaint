@@ -12,24 +12,18 @@ NA
 Draft
 
 **Designer:**
-def␣show_results␣␣
-end
 N Bhargav
 
-**Developers:** 
-def␣show_results␣␣
-end
+**Developers:**  
 1. N Bhargav
 2. Shamasis
 3. Sushanth
 
-**QA :**
-def␣show_results␣␣
-end
+**QA :**  
 1. N Bhargav
 2. Shamasis
 3. Sushanth
 
-##Goals
+##Goals  
 
 1. 

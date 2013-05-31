@@ -15,15 +15,15 @@ Draft
 N Bhargav
 
 **Developers:**  
-1. N Bhargav  
-2. Shamasis  
-3. Sushanth
+* N Bhargav  
+* Shamasis  
+* Sushanth
 
 **QA :**  
-1. N Bhargav  
-2. Shamasis  
-3. Sushanth  
+* N Bhargav  
+* Shamasis  
+* Sushanth  
 
 ##Goals  
 
-1. 
+*

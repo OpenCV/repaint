@@ -14,18 +14,22 @@ Rectangle.associateWithCanvas = function(myCanvasElement) {
     canvas = document.getElementById(myCanvasElement);
 };
 
+Rectangle.prototype.moveTo = function(x,y){
+    this.x = x;
+    this.y = y;
+    clear();
+    draw();
+};
+
 var myRects = [];
 
 myRects.push(new Rectangle(10, 10, 20, 20, '#ff0000'));
 myRects.push(new Rectangle(20, 20, 30, 30, '#00ff00'));
 myRects.push(new Rectangle(70, 70, 40, 40, '#0000ff'));
     
-function moveTo(i, x, y){
-    myRects[i].x = x;
-    myRects[i].y = y;
-    clear();
-    draw();
-}
+
+
+//myRects[0].moveTo(90,90);
 
 function draw(){
     context = canvas.getContext('2d');

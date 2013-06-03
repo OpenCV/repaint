@@ -29,7 +29,7 @@ N Bhargav
 
 ##Goals  
 
-The objective of this project is to provide an easy way to create, color and move 
+_canvas_ is a The objective of this project is to provide an easy way to create, color and move 
 rectangles.  
 
 > Notes:

@@ -5,12 +5,50 @@ and open the template in the editor.
 <!DOCTYPE html>
 <html>
     <head>
-        <title></title>
+        <title>repaint | FusionCharts</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     </head>
     <body>
-        <canvas id="myCanvas" width="200" height="200" style="border:1px solid #d3d3d3;">Your browser does not support the HTML5 canvas tag.</canvas>
+        <canvas id="myCanvas" width="400" height="200" style="border:1px solid #d3d3d3;">Your browser does not support the HTML5 canvas tag.</canvas>
         <canvas id="myCanvas2" width="400" height="200" style="border:1px solid #d3d3d3;">Your browser does not support the HTML5 canvas tag.</canvas>
+        <div>
+            <h3>Testing</h3>
+            
+                <ul>
+                    <li>
+                        <p>You may select either of the two canvases</p>
+                        <ol>
+                            <li><p>myCanvas</p></li>
+                            <li><p>myCanvas2</p></li>
+                        </ol>
+                    </li>
+                    <li>
+                        <p>To select the canvas and draw the rectangles, fire up the console and type</p>
+                        <code>Rectangle.associateWithCanvas("myCanvas");</code><br>or<br>
+                        <code>Rectangle.associateWithCanvas("myCanvas2");</code>
+                    </li>
+                    <li>
+                        <p>There are 6 rectangles numbered 0(red - 10, 10), 1(blue - 20, 20), 2(green - 5, 30), 3(violet - 30, 10), 4(black - 40, 20), 5(orange - 50, 30).</p>
+                        <ul>
+                            <li><p>Pick any of the rectangles and move it by using the following syntax</p>
+                            <code>myRects[rectangle number].moveTo(x,y); </code>
+                            <p>Where <i>rectangle number</i> can take any value from 0-5</p>
+                            <p>For example,</p>
+                            <code>myRects[4].moveTo(90,90);</code>
+                            <p>will translate rectangle 4(black) to the new position (90,90) from old position(40, 20)</p>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        Understanding the numbers below, after each move operation:
+                        <ul>
+                            <li>First set, the numbers will be in the range 0-5 which shows all the rectangles affected before the move.</li>
+                            <li>Second set, the numbers will be in the range 0-5 which shows all the rectangles affected after the move.</li>
+                        </ul>
+                    </li>
+                </ul>
+            
+        </div>
         <script src="repaint.js"></script>
     </body>
 </html>

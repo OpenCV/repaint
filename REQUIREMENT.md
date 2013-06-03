@@ -5,31 +5,33 @@ repaint requirements
 **Target release:**
 1.0
 
-**Theme:**
-NA
-
 **Document status:**
-Reviewed and revised
+* Reviewed by _Shamasis_
+* Revised by _N Bhargav_
 
 **Updated on**
 June 3rd 2013
 
 **Designer:**
-N Bhargav
+* _N Bhargav_
 
 **Developers:**  
-* N Bhargav  
-* Shamasis  
-* Sushanth
+* _N Bhargav_  
+* _Shamasis_  
+* _Sushanth_
 
 **QA :**  
-* N Bhargav  
-* Shamasis  
-* Sushanth  
+* _N Bhargav_  
+* _Shamasis_  
+* _Sushanth_  
 
 ##Goals  
 
-_canvas_ is a The objective of this project is to provide an easy way to create, color and move 
+_canvas_ is a HTML5 tag which lets us draw graphics usually via scripting, which is JavaScript in this project.  
+
+Project *repaint* was started at FusionCharts, Bangalore to contribute to the opensource community.
+
+The objective of this project is to provide an easy way to create, color and move 
 rectangles.  
 
 > Notes:

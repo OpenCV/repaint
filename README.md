@@ -1,9 +1,8 @@
 repaint
 =======
 
-A canvas repaint 
-#Introduction
-_<canvas>_ is a HTML5 tag which lets us draw graphics usually via scripting(JavaScript).  
+##Introduction
+_canvas_ is a HTML5 tag which lets us draw graphics usually via scripting(JavaScript).  
 
 Project *repaint* was started at FusionCharts, Bangalore to contribute to the open source community.
 

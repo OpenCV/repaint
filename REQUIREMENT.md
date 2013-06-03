@@ -27,7 +27,7 @@ June 3rd 2013
 
 ##Goals  
 
-The major goal of this project(_repaint_) is to optimize rendering of a _canvas_ when any of the object in the canvas needs to be moved.
+The major goal of this project( _repaint_ ) is to optimize rendering of a _canvas_ when any of the object in the canvas needs to be moved.
 
 This can done by using the following algorithm.
   

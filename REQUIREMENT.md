@@ -42,7 +42,7 @@ This can done by using the following algorithm.
           Rectangle2(x)+Rectangle2(w) < Rectangle1(x) _or_  
           Rectangle1(y)+rectangle1(h) < Rectangle2(y) _or_  
           Rectangle2(y)+Rectangle2(h) < Rectangle1(y)  
-    3. Change Rectangle1's coordinates and repeat _step 2_  
+    3. Change Rectangle1's coordinates to the target coordinates and repeat _step 2_  
     4. For each case where above condition is not satisfied, clear the Rectangle2 by filling it with the background color and get the array index of those rectangles and store them in another array, lets say _counter_  
     5. Repeat this for all rectangles and clear the target rectangle in the same way as above  
     6. Draw all the rectangles in the order of their index we stored in _counter_ array  

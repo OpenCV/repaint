@@ -8,7 +8,7 @@ Project *repaint* was started at FusionCharts, Bangalore to contribute to the op
 
 The objective of this project is to provide an effective way to move rectangle objects by avoiding complete canvas scene redraw.
 
-repaint will identify the object that needs to be moved and the objects that are getting affected in that process 
+_repaint_ will identify the object that needs to be moved and the objects that are getting affected in that process 
 and hence will only redraw those objects.
 
 A best case scenario would be when the object movement does not affect other objects in the scene and the 

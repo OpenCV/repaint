@@ -13,7 +13,7 @@ and hence will only redraw those objects.
 
 A best case scenario would be when the object movement does not affect other objects in the scene and the 
 worst case scenario would be when it affects all the objects in the scene as it needs complete 
-redraw of objects in the scene.
+redraw of objects.
 > An object is said to be affected by another object when an overlap occurs before or after moving a particular object in the current scene
 
 Technical details and goals of this project are documented in *REQUIREMENT.md*.

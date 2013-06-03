@@ -9,7 +9,10 @@ repaint requirements
 NA
 
 **Document status:**
-Draft
+Reviewed and revised
+
+**Updated on**
+June 3rd 2013
 
 **Designer:**
 N Bhargav
@@ -26,9 +29,10 @@ N Bhargav
 
 ##Goals  
 
-The objective of this project is to build a canvas and provide neat way to create, color, move 
+The objective of this project is to provide an easy way to create, color and move 
 rectangles.  
-**Notes:**
+
+> Notes:
 A canvas let's us build 2D shapes which are scriptable and dynamic. It is a
 low level, procedural model that updates a bitmap and does not have a built-in scene graph.
 

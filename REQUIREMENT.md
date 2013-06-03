@@ -47,6 +47,9 @@ This can done by using the following algorithm.
     5. Repeat this for all rectangles and clear the target rectangle in the same way as above  
     6. Draw all the rectangles in the order of their index we stored in _counter_ array  
 
+In this way we can optimize canvas rendering and save cpu and memory resources which ultimately boosts the application performance.
+
+
 > In the console, the syntax to perform a move is RectangleObject.moveTo(x,y); Hence this will give the array index of the object and the new location coordinates.
 In the algorithm explained _x, y, w, h_ means the _x-coordinate, y-coordinate, width_ and _height_ of the rectangle
 
